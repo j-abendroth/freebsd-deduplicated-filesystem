@@ -1,0 +1,15 @@
+*.DS_Store
+.vscode/
+*.o
+*.a
+*.la
+*.so
+*.pyc
+*.bak
+*.d
+*.out
+*.log
+*.bbl
+*.blg
+*.aux
+mkddfs
